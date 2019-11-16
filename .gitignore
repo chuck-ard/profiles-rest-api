@@ -2,6 +2,12 @@
 # Created by https://www.gitignore.io/api/python,django,vagrant
 # Edit at https://www.gitignore.io/?templates=python,django,vagrant
 
+# IDE/Editor
+.idea/
+*.kdev4
+.kdev4/
+vsworkspace
+
 ### Django ###
 *.log
 *.pot
